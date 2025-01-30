@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1  tvg-name="3 PALAVRINHAS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",3 PALAVRINHAS
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/670
 #EXTINF:-1  tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",A CASA DO MICKEY MOUSE
@@ -19,13 +19,13 @@ http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1067
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1158
 #EXTINF:-1  tvg-name="AMAZON ESPORTES 4" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="ESPORTES ONLINE",AMAZON ESPORTES 4
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1159
-#EXTINF:-1  tvg-name="AMC 4K" tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" group-title="FILMES & SERIES",AMC 4K
+#EXTINF:-1  tvg-name="AMC 4K" tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo-thumbnail.png" group-title="FILMES & SERIES",AMC 4K
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/228
-#EXTINF:-1  tvg-name="AMC DUAL" tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" group-title="CANAIS DUAL AUDIO ",AMC DUAL
+#EXTINF:-1  tvg-name="AMC DUAL" tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo-thumbnail.png" group-title="CANAIS DUAL AUDIO ",AMC DUAL
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/790
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" group-title="FILMES & SERIES",AMC HD
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-logo="https://w7.pngwing.com/pngs/816/921/png-transparent-amc-theatres-cinema-amc-flatiron-crossing-14-amc-arrowhead-14-amc-superstition-east-12-movie-theatre-miscellaneous-text-trademark-thumbnail.png" group-title="FILMES & SERIES",AMC HD
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/229
-#EXTINF:-1  tvg-name="AMC HDR+" tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" group-title="CANAIS HDR+",AMC HDR+
+#EXTINF:-1  tvg-name="AMC HDR+" tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-logo="https://w7.pngwing.com/pngs/816/921/png-transparent-amc-theatres-cinema-amc-flatiron-crossing-14-amc-arrowhead-14-amc-superstition-east-12-movie-theatre-miscellaneous-text-trademark-thumbnail.png" group-title="CANAIS HDR+",AMC HDR+
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1020
 #EXTINF:-1  tvg-name="ANIMAL PLANET 4K" tvg-id="e6782d4e82ac2a0a70cd8332cae1997c" tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/61
@@ -329,8 +329,6 @@ http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/817
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1160
 #EXTINF:-1  tvg-name="GLOBO SP 4K" tvg-id="Globo SP HD" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO SP 4K
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/511
-#EXTINF:-1  tvg-name="GLOBO TV ANHANGUERA GOIAS 4K" tvg-id="5b5e8f6070df962a62d591d616dcdf46" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Logo_TV_Anhanguera_2019.png" group-title="TV ABERTA",GLOBO TV ANHANGUERA GOIAS 4K
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/849
 #EXTINF:-1  tvg-name="GLOBO TV CENTRO AMERICA CUIABA 4K" tvg-id="BBC World News" group-title="TV ABERTA",GLOBO TV CENTRO AMERICA CUIABA 4K
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1102
 #EXTINF:-1  tvg-name="GLOBO TV LIBERAL BELEM 4K" tvg-id="a59483f89eb41e07791c2730e68fc82f" group-title="TV ABERTA",GLOBO TV LIBERAL BELEM 4K
@@ -385,10 +383,6 @@ http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1000
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/832
 #EXTINF:-1  tvg-name="HBO MAX 2 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 2 HD
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/833
-#EXTINF:-1  tvg-name="HBO MAX 3 HD" tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 3 HD
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/834
-#EXTINF:-1  tvg-name="HBO MAX 4 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 4 HD
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/835
 #EXTINF:-1  tvg-name="HBO MUNDI 4K" tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO MUNDI 4K
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/256
 #EXTINF:-1  tvg-name="HBO MUNDI HD" tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO MUNDI HD
@@ -635,12 +629,8 @@ http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/610
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/611
 #EXTINF:-1  tvg-name="PORNBOX 46" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 46
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/612
-#EXTINF:-1  tvg-name="PORNBOX 47" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 47
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/613
 #EXTINF:-1  tvg-name="PORNBOX 48" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 48
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/614
-#EXTINF:-1  tvg-name="PORNBOX 49" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 49
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/615
 #EXTINF:-1  tvg-name="PORNBOX 5" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 5
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/571
 #EXTINF:-1  tvg-name="PORNBOX 51" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 51
@@ -745,8 +735,6 @@ http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/662
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/663
 #EXTINF:-1  tvg-name="PORNBOX 98" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 98
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/664
-#EXTINF:-1  tvg-name="PORNBOX 99" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 99
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/665
 #EXTINF:-1  tvg-name="PREMIERE 1 4K" tvg-id="Premiere HD" group-title="ESPORTES",PREMIERE 1 4K
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/148
 #EXTINF:-1  tvg-name="PREMIERE 2 4K" tvg-id="Premiere HD2" group-title="ESPORTES",PREMIERE 2 4K
@@ -865,20 +853,6 @@ http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/175
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/281
 #EXTINF:-1  tvg-name="STAR CHANNEL HD" tvg-id="704a11219aba00b606e933c52ee03c39" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="FILMES & SERIES",STAR CHANNEL HD
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/282
-#EXTINF:-1  tvg-name="STAR+ 2 HD" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 2 HD
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/826
-#EXTINF:-1  tvg-name="STAR+ 3 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 3 HD
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/827
-#EXTINF:-1  tvg-name="STAR+ 4 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 4 HD
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/828
-#EXTINF:-1  tvg-name="STAR+ 5 HD" group-title="ESPORTES ONLINE",STAR+ 5 HD
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1147
-#EXTINF:-1  tvg-name="STAR+ 6 HD" group-title="ESPORTES ONLINE",STAR+ 6 HD
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1148
-#EXTINF:-1  tvg-name="STAR+ 7 HD" group-title="ESPORTES ONLINE",STAR+ 7 HD
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1149
-#EXTINF:-1  tvg-name="STAR+ 8 HD" group-title="ESPORTES ONLINE",STAR+ 8 HD
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1150
 #EXTINF:-1  tvg-name="STREET FIGHTER " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",STREET FIGHTER
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/727
 #EXTINF:-1  tvg-name="STUDIO UNIVERSAL 4K" tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" group-title="FILMES & SERIES",STUDIO UNIVERSAL 4K
@@ -1095,8 +1069,6 @@ http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1081
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1082
 #EXTINF:-1  tvg-name="ZOOMOO 4K" tvg-id="926c5a250104ac725e2f2afe9884b796" tvg-logo="http://185.53.90.49:41001/logos/zoomoo.png" group-title="INFANTIS",ZOOMOO 4K
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/370
-#EXTINF:-1  tvg-name="GOAT TV 1 4K" group-title="ESPORTES ONLINE",GOAT TV 1 4K
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1263
 #EXTINF:-1  tvg-name="CAZE 1 4K" group-title="ESPORTES ONLINE",CAZE 1 4K
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1265
 #EXTINF:-1  tvg-name="CAZE 2 4K" group-title="ESPORTES ONLINE",CAZE 2 4K
@@ -1105,18 +1077,6 @@ http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1266
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1267
 #EXTINF:-1  tvg-name="FOX SPORTS 4K" group-title="ESPORTES",FOX SPORTS 4K
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1268
-#EXTINF:-1  tvg-name="DISNEY+ 08" group-title="ESPORTES ONLINE",DISNEY+ 08
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1269
-#EXTINF:-1  tvg-name="DISNEY+ 07" group-title="ESPORTES ONLINE",DISNEY+ 07
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1270
-#EXTINF:-1  tvg-name="DISNEY+ 06" group-title="ESPORTES ONLINE",DISNEY+ 06
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1271
-#EXTINF:-1  tvg-name="DISNEY+ 04" group-title="ESPORTES ONLINE",DISNEY+ 04
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1273
-#EXTINF:-1  tvg-name="DISNEY+ 03" group-title="ESPORTES ONLINE",DISNEY+ 03
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1274
-#EXTINF:-1  tvg-name="DISNEY+ 02" group-title="ESPORTES ONLINE",DISNEY+ 02
-http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1275
 #EXTINF:-1  tvg-name="BBB 1 ACOMPANHA A CASA" group-title="BBB 2025",BBB 1 ACOMPANHA A CASA
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1277
 #EXTINF:-1  tvg-name="BBB 2 ACOMPANHA A CASA" group-title="BBB 2025",BBB 2 ACOMPANHA A CASA
@@ -1141,3 +1101,4 @@ http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1288
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1289
 #EXTINF:-1  tvg-name="BBB BANHEIRO PANTENE" group-title="BBB 2025",BBB BANHEIRO PANTENE
 http://authxplus-2.xyz:2082/Xplus-1-HnaN5DP3Hj/TmpZyz7QV5/1290
+
